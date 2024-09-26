@@ -66,7 +66,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
-<div class="gs-section-01" markdown="1" style="background-color: #008080 !important; color: #000000 !important; padding: 20px !important; font-size: 25px !important; font-family: 'Arial', sans-serif !important;">
+<div class="gs-section-01" markdown="1" style="background-color: #008080; color: #000000 ; padding: 20 px ; font-size: 25 px ; font-family: 'Arial', sans-serif ;">
     
 ### 1. Fork this project
 
@@ -74,7 +74,7 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 </div>
 
-<div class="gs-section-01" markdown="1" style="background-color: #333333 !important; color: #006400 !important; padding: 20px !important; font-size: 12px !important; font-family: 'Times New Roman', Georgia, serif !important;">
+<div class="gs-section-01" markdown="1" style="background-color: #333333; color: #006400; padding: 20 px; font-size: 12 px; font-family: 'Times New Roman', Georgia, serif;">
     
 ### 2. Rename the project to `<yourusername>.github.io`
 
@@ -82,7 +82,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 
 </div>
 
-<div class="gs-section-01" markdown="1" style="background-color: #FFC0CB !important; color: #FF7F50 !important; padding: 20px !important; font-size: 30px !important; font-family: 'Courier New', Courier, monospace !important;">
+<div class="gs-section-01" markdown="1" style="background-color: #FFC0CB ; color: #FF7F50 ; padding: 20 px ; font-size: 30 px ; font-family: 'Courier New', Courier, monospace;">
     
 ### 3. Customize your website settings
 
@@ -238,3 +238,13 @@ This template was not made *entirely* from scratch. I'd like to give special tha
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
 
+<style>
+
+.gs-section-01 h3 { 
+     color: red }
+
+.gs-section-01 p {
+     font-size: 30px;
+}
+
+</style>
