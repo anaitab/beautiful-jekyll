@@ -66,7 +66,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
-<div class="gs-section-01" markdown="1" style="background-color: #008080; color: #000000 ; padding: 20 px ; font-size: 25 px ; font-family: 'Arial', sans-serif ;">
+<div markdown="1" style="background-color: #008080; color: #000000 ; padding: 20 px ; font-size: 25 px ; font-family: 'Arial', sans-serif ;">
     
 ### 1. Fork this project
 
