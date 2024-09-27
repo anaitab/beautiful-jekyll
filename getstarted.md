@@ -66,7 +66,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
-<div style="background-color:#008080; color:#000000 ; padding: 20 px ; font-size: 25 px ; font-family: 'Arial', sans-serif ;">
+<div markdown=”1” style="background-color:#008080; color:#000000 ; padding: 20 px ; font-size: 25 px ; font-family: 'Arial', sans-serif ;">
     
 ### 1. Fork this project
 
@@ -74,7 +74,7 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 </div>
 
-<div class="gs-section-01" markdown="1" style="background-color: #333333; color: #006400; padding: 20 px; font-size: 12 px; font-family: 'Times New Roman', Georgia, serif;">
+<div  markdown="1" style="background-color: #333333; color: #006400; padding: 20 px; font-size: 12 px; font-family: 'Times New Roman', Georgia, serif;">
     
 ### 2. Rename the project to `<yourusername>.github.io`
 
@@ -82,7 +82,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 
 </div>
 
-<div class="gs-section-01" markdown="1" style="background-color: #FFC0CB ; color: #FF7F50 ; padding: 20 px ; font-size: 30 px ; font-family: 'Courier New', Courier, monospace;">
+<div  markdown="1" style="background-color: #FFC0CB ; color: #FF7F50 ; padding: 20 px ; font-size: 30 px ; font-family: 'Courier New', Courier, monospace;">
     
 ### 3. Customize your website settings
 
