@@ -14,12 +14,12 @@ author: Ana Egatz-Gomez
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "A virtual proof that I'm awesome"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
-  Author's home: "https://deanattali.com"
+  Table Demo: "table-demo" 
 
 # --- Logo --- #
 
